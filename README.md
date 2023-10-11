@@ -1,5 +1,5 @@
 # django-1 
-## Welcome To My First Django project : a sample site using html, css, bootstrap and django forms.
+## Welcome To My First Django project : a sample site using django(views,ulrs,templates) , bootstrap,html and css
 In this site i had worked with urls, views and templates. i had send data from views to templates using dict[ param= {'data1':output1}] and gained data from form template in views using request.POST.get('element_name')
 
 *caiptalizing and removing punctuations of users text*
